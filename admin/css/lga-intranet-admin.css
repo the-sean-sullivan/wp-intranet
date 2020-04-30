@@ -1,0 +1,24 @@
+#up-wrap { width: 99%; padding: 20px 0; }
+
+form .intranet-users,
+form .modules { margin: 5px 0; padding: 10px; background: #EFEFEF; border: 1px #DDD solid; width: 100%; overflow: auto; }
+
+form .modules { border: 0; }
+
+form .intranet-users label,
+form .modules label{ margin: 0 15px 15px 0; width: 50%; float: left; }
+form .modules label{float: none;}
+
+form .intranet-users input[type="checkbox"],
+form .modules input[type="checkbox"] { margin-right: 5px; }
+
+label.updated { color: green; }
+
+@media (min-width: 768px) {
+	form .intranet-users,
+	form .modules { margin: 5px 10px 5px 0; float: left; width: 45% }
+	
+	form .modules { margin: 5px 10px 5px 0; float: left; width: 20% }
+	
+		form .intranet-users label { width: 25%; }
+}
