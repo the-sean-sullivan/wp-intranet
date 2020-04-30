@@ -2,7 +2,15 @@
 
 A modular intranet/permissions plugin for WordPress.
 
-== Changelog ==
+## Installation
+
+1. Upload the Intranet folder to the plugins directory in your WordPress installation
+2. Activate the plugin.
+3. Navigate to the "User Permissions" Menu.
+
+That's it! Now you can easily start intranetting!
+
+## Changelog
 
 = 4.2.0 =
 
@@ -112,11 +120,3 @@ A modular intranet/permissions plugin for WordPress.
 = 1.0.0 =
 
 * Initial plugin creation.
-
-## Installation
-
-1. Upload the Intranet folder to the plugins directory in your WordPress installation
-2. Activate the plugin.
-3. Navigate to the "User Permissions" Menu.
-
-That's it! Now you can easily start intranetting!
