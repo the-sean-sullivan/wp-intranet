@@ -1,15 +1,6 @@
-=== Intranet ===
-Contributors: gataf
-Donate link: https://seansdesign.net
-Tags: intranet
-Requires at least: 4.7
-Tested up to: 5.2.1
-Stable tag: 5.2.1
-Requires PHP: 7.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+## An Intranet plugin for WordPress
 
-An intranet/modular permissions plugin.
+A modular intranet/permissions plugin for WordPress.
 
 == Changelog ==
 
